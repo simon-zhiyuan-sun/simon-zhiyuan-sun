@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Simon! 👋
 
-<!--
-**simon-zhiyuan-sun/simon-zhiyuan-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="120" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Gif" />
 
-Here are some ideas to get you started:
+I'm a **Backend Engineer** based in Toronto 🇨🇦, specializing in **Java, Spring Boot, and Cloud Architecture**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently building **Guidex**, an AI-powered skiing coach app.
+- ⚡ **Tech Stack:** Java, Spring Boot, AWS (EC2/S3), Docker, Redis, MySQL.
+- 🚀 **Highlight:** Optimized video processing latency from **2 mins to 3s** using async pipelines.
+- 📫 **Reach me at:** [simon.zhiyuan.sun@outlook.com](mailto:simon.zhiyuan.sun@outlook.com)
+
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=simon-zhiyuan-sun&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-zhiyuan-sun&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
