@@ -7,3 +7,6 @@ I'm a **Backend Engineer** based in Toronto, specializing in **Java, Spring Boot
 - 🚀 **Highlight:** Optimized video processing latency from **2 mins to 3s** using async pipelines.
 - 📫 **Reach me at:** simon.zhiyuan.sun@outlook.com
 
+---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=simon-zhiyuan-sun&theme=radical)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simon-zhiyuan-sun&theme=radical)
